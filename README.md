@@ -1,6 +1,22 @@
 ### <img alt="Whispering..." src="https://github.githubassets.com/images/mona-whisper.gif" width="40" height="48"> Hi there!
 
 
+### Interests ✨
+
+I'm interested in web development area. I like to make and think about designs and mockups, so I'm interested in Full-stack area, but specifically I would like to learn more about Front-end.
+
+### Technologies 💻
+
+Among the technologies that I use the most are: 
+
+* JavaScript
+* TypeScript ❤️
+* HTML5
+* Angular
+* Vue
+* Quasar
+* React
+* Mongodb
 
 <!--
 **danielalvarezm/danielalvarezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
