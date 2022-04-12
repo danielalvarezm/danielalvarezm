@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 <img alt="Whispering..." style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="48" height="48">
+
+
 
 <!--
 **danielalvarezm/danielalvarezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
