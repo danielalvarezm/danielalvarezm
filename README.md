@@ -13,10 +13,7 @@ Among the technologies that I use the most are:
 * Javascript
 * Typescript ❤️
 * HTML5
-* Angular
-* Vue
-* Quasar
-* React
+* Framworks like: React, Vue, Quasar or Angular
 * SQL Databases (MySQL, PostgreSQL)
 * NoSQL Databases (MongoDB, Firebase)
 
