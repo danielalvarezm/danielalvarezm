@@ -3,27 +3,36 @@
 
 ### Interests ✨
 
-I'm interested in web development area. I like to make and think about designs and mockups, so I'm interested in Full-stack area, but specifically I would like to learn more about Front-end.
+* 💻 I'm currently in my final year of Computer Engineering.
+* ⚡ I'm interested in web development area. I like to make and think about designs and mockups, so I'm interested in Full-stack area, but specifically in Front-end.
 
-### Technologies 💻
+### Technologies 🛠️
 
 Among the technologies that I use the most are: 
 
-* JavaScript
-* TypeScript ❤️
+* Javascript
+* Typescript ❤️
 * HTML5
 * Angular
 * Vue
 * Quasar
 * React
-* Mongodb
+* SQL Databases (MySQL, PostgreSQL)
+* NoSQL Databases (MongoDB, Firebase)
 
 I have also used other languages at my university like: C, C++, PHP, Phyton or Ruby
 
 ### Stats 📈
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielalvarezm&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielalvarezm&layout=compact&theme=radical) 
+<p align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=danielalvarezm&show_icons=true&theme=radical" alt="Daniel's GitHub stats">
+  <a>ㅤㅤㅤㅤ</a>
+  <img width="415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielalvarezm&layout=compact&theme=radical" alt="Top Langs">
+</p>
+   
+## My social media 📲
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Daniialvarez17_) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-álvarez-medina-404568234/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniialvarez17/?hl=es)
 <!--
 **danielalvarezm/danielalvarezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
