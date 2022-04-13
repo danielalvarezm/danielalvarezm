@@ -25,7 +25,7 @@ I have also used other languages at my university like: C, C++, PHP, Phyton or R
 ### Stats 📈
 <p align="center">
   <img width="500" src="https://github-readme-stats.vercel.app/api?username=danielalvarezm&show_icons=true&theme=radical" alt="Daniel's GitHub stats">
-  <a>ㅤㅤㅤㅤ</a>
+  <a>ㅤ</a>
   <img width="415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielalvarezm&layout=compact&theme=radical" alt="Top Langs">
 </p>
    
