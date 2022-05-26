@@ -4,7 +4,7 @@
 ### Interests ✨
 
 * 💻 Computer Engineering.
-* ⚡ I'm interested in web development area. I like to make and think about designs and mockups, so I'm interested in Full-stack area, but specifically in Front-end.
+* ⚡ I'm interested in web development area. I like to make and designs and mockups, so I'm interested in Full-stack area, but specifically in Front-end.
 
 ### Technologies 🛠️
 
