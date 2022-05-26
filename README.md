@@ -3,7 +3,7 @@
 
 ### Interests ✨
 
-* 💻 I'm currently in my final year of Computer Engineering.
+* 💻 Computer Engineering.
 * ⚡ I'm interested in web development area. I like to make and think about designs and mockups, so I'm interested in Full-stack area, but specifically in Front-end.
 
 ### Technologies 🛠️
