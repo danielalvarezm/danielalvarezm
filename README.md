@@ -18,13 +18,14 @@ Among the technologies that I use the most are:
 * NoSQL Databases (MongoDB, Firebase)
 
 I have also used other languages at my university like: C, C++, PHP, Phyton or Ruby
-
+<!--
 ### Stats 📈
 <p align="center">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=danielalvarezm&show_icons=true&theme=radical" alt="Daniel's GitHub stats">
   <a>ㅤ</a>
   <img width="345" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielalvarezm&layout=compact&theme=radical" alt="Top Langs">
 </p>
+-->
    
 ## My social media 📲
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Daniialvarez17_) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-álvarez-medina-404568234/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniialvarez17/?hl=es)
