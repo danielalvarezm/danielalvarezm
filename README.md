@@ -11,12 +11,10 @@
 Among the technologies that I use the most are: 
 
 * Javascript
-* Typescript ❤️
-* Kotlin
+* Typescript 
+* Kotlin ❤️
 * Flutter
 * Vue
-* SQL Databases (MySQL, PostgreSQL)
-* NoSQL Databases (MongoDB, Firebase)
 * C, C++
 
 I have also used other technologies such as: Ionic, Phyton, React
